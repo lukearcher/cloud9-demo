@@ -1,1 +1,4 @@
-voila jupyter numpy matplotlib
+voila
+jupyter
+numpy
+matplotlib
