@@ -2,3 +2,4 @@ voila
 jupyter
 numpy
 matplotlib
+IPython
